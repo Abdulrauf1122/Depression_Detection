@@ -5,7 +5,6 @@ A Python-based project for **depression detection** using a neural network. The 
 
 ### **README.md**
 
-```markdown
 # Depression Detection Model
 
 This project builds a machine learning model using **Python** and **TensorFlow** to predict depression in students based on behavioral and demographic factors. It utilizes preprocessing techniques, exploratory data analysis (EDA), and a neural network classifier.
